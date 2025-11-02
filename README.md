@@ -1,7 +1,3 @@
----
-config:
-  layout: dagre
----
 flowchart TD
     A(["Inicio"]) --> B["Entrada: Nome do doador"]
     B --> C["Entrada: Idade - inteiro"]
