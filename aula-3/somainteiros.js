@@ -6,7 +6,7 @@ const leia = require("readline-sync");
 let somaPositivos = 0;
 let numero;
 
-console.log("Digite números inteiros. Para encerrar, digite 0.");
+console.log("Digite numeros inteiros. Para encerrar, digite 0.");
 
 do {
   // \n apenas para formatar como no exemplo do enunciado
