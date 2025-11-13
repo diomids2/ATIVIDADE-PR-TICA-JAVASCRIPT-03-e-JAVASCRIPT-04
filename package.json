@@ -2,5 +2,25 @@
   "dependencies": {
     "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "atividade-pr-tica-javascript-03-e-javascript-04",
+  "version": "1.0.0",
+  "description": "Como rodar?",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diomids2/ATIVIDADE-PR-TICA-JAVASCRIPT-03-e-JAVASCRIPT-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/diomids2/ATIVIDADE-PR-TICA-JAVASCRIPT-03-e-JAVASCRIPT-04/issues"
+  },
+  "homepage": "https://github.com/diomids2/ATIVIDADE-PR-TICA-JAVASCRIPT-03-e-JAVASCRIPT-04#readme"
 }
